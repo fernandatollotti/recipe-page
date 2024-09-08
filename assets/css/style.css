@@ -122,7 +122,6 @@ li {
   color: var(--rose-800);
   font-weight: var(--fw-semibold);
   font-size: var(--title-medium);
-  margin-bottom: 1rem;
 }
 
 .card_content .info:not(:last-child) {
