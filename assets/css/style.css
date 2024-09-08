@@ -156,7 +156,7 @@ li {
 }
 
 @media (min-width: 768px) {
-  body { margin: 6rem 0; }
+  body { margin: 7rem 0; }
 
   /* #CARD RECIPE */
   .card { border-radius: var(--radius-large); }
