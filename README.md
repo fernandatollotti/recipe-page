@@ -17,4 +17,4 @@ O projeto visa demonstrar habilidades em HTML, CSS e design responsivo, utilizan
 Este projeto foi desenvolvido no desafio da plataforma Frontend Mentor. Para mais informações sobre o desafio original, visite [Desafio Recipe Page](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Você pode encontrar o texto completo da licença no arquivo LICENSE.
+Este projeto está licenciado sob a licença MIT.
